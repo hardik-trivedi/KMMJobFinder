@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/build/intermediates/res/merged/debug/layout_fragment_job_list.xml.flat",
+        "source": "/Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/res/layout/fragment_job_list.xml"
+    },
+    {
+        "merged": "/Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/build/intermediates/res/merged/debug/navigation_navigation_graph.xml.flat",
+        "source": "/Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/res/navigation/navigation_graph.xml"
+    },
+    {
+        "merged": "/Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/build/intermediates/res/merged/debug/layout_job_info_list_item.xml.flat",
+        "source": "/Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/res/layout/job_info_list_item.xml"
+    }
+]

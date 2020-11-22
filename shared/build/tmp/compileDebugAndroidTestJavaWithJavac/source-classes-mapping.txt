@@ -1,0 +1,2 @@
+com/hardiktrivedi/kmmjobfinder/android/test/BuildConfig.java
+ com.hardiktrivedi.kmmjobfinder.android.test.BuildConfig

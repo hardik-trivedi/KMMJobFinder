@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/2181069bc345d67c2684733faa2e1844/viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [:shared] /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/4b0af128e80c1a44ae68a7c2e55e59fa/navigation-ui-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/9df97cdcd2bb19fd933235ba72c4c18f/navigation-ui-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/89333baab3abf99902109d0c8d7e2876/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0e445a0d222e9a8a260d1262703d4eca/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a9dc6a8738b4e6bfbbce37f0b28b12d0/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7f3b0ff676b4e5f9021e3c746ddc2812/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/cdb0f6b4e64782c406df03f4ce9eb09a/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/179fd86f1f6c5bc36d8122b4a227c885/fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/6d566a34090e14ff4be9f39280f10bf3/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha01] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/6c0ef3394f347946569378c8993952d0/lifecycle-livedata-ktx-2.2.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/e4bae1f95c5df88b26a184f5885c7437/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0ea803759aaaf2198fd52a7d74ee9d21/navigation-common-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7f6ce69f0d1edd78924f63e68c2fb84c/core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/d96eaa13514be11c8558db57474f6183/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/e08adeba895550a75c6dbc4066cbd61a/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/974708ebdde6016e884b092b20c0bcf5/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/70d9b242705aa14ab0e028a5a3b35a66/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/bc8ba079e0d0196451b54d0fbc3ae20d/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a17bc0e0738b5d1e20081ac3dbb117d6/navigation-fragment-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/c3326e5033f96e91dc1d2e1c9bf9ea2c/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/03399163d583996d74564df9ab6fb2ee/navigation-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/30fa88f19593e51904192001db0cae2b/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a10584b52516f31d191b417c198aa0fe/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/20a04c86cc8c8cdc91ea0393a9ca163f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/d64d9f10a48eef0b15f100e5ada22ebe/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/fd023815924b5b53aa8e58f87f8bd129/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0d7d383bce2082fad49c3bc4470b87af/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/4c6c11ebbe6c643d3f1d207433caa2ab/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/57fdd6d2309062ca95362e37bd698c3d/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/31319fa41795a61741648289035cf55e/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/c301401c464653b79ae5a62128829bf1/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/aed055fc30ad656e3e2947a79d977181/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/c62e2f3230a50081759fa709f1bfbfbb/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/856bb0f2bcb052b781603c9a8e140731/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ae613bc46ae5964ba5477bc00e6d2198/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/06e643c4644ef0f826c9013b6230d39f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a11f221277d3ba7ee76a0b03438ebe0e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/acc0d43eae693f4c78e9795eaef0eda9/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/416b1a130b05c06a86c9143ba47c8a91/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/f35fa7c2ec3d2031a14d8560d00c276e/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/67f9fc63db934bd4aea6fe4160bfd703/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/5341388c3406d19b09d8c797e40c1259/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/51c4a052f1af7144609f48e2f059fada/navigation-common-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ee7669a4a6eb8aa78558232a6b90114a/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/5d8e2e52f207938cc340c0004df1b169/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a458f5e8fed79a9bfdf5ece23e654ace/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7c8f205d209e29acf0a4015c4979a57a/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/19003e80ba054f31d64f665fc8bfb26e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/70bf3ab3691b2853ffe0b649bfb10ecd/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/707ea73754ee2579608ddf9a52f0b9c7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/9efd6de74c39c5c30865886a1c141d58/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/acccf9ed405817912ae51947b6ec9c27/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ac51969b8213e6a96eb7e84da8c8b2a2/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/536f502d21d9d1d1f25ddf8d992fddc5/lifecycle-livedata-2.2.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/50a88728a2dec1e257993e2dfe193d35/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/f505567e017a2002523d69c7e20fb1fd/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/dd16d4b0b45f91c987534b28b2ef15fb/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+		INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:6:5-18:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/89333baab3abf99902109d0c8d7e2876/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/89333baab3abf99902109d0c8d7e2876/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0e445a0d222e9a8a260d1262703d4eca/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0e445a0d222e9a8a260d1262703d4eca/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/70d9b242705aa14ab0e028a5a3b35a66/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/70d9b242705aa14ab0e028a5a3b35a66/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ee7669a4a6eb8aa78558232a6b90114a/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ee7669a4a6eb8aa78558232a6b90114a/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/5d8e2e52f207938cc340c0004df1b169/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/5d8e2e52f207938cc340c0004df1b169/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7c8f205d209e29acf0a4015c4979a57a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7c8f205d209e29acf0a4015c4979a57a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ee7669a4a6eb8aa78558232a6b90114a/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:10:9-40
+	android:allowBackup
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:9:9-40
+activity#com.hardiktrivedi.kmmjobfinder.androidJobFinder.MainActivity
+ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/2181069bc345d67c2684733faa2e1844/viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/2181069bc345d67c2684733faa2e1844/viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [:shared] /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:shared] /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/4b0af128e80c1a44ae68a7c2e55e59fa/navigation-ui-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/4b0af128e80c1a44ae68a7c2e55e59fa/navigation-ui-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/9df97cdcd2bb19fd933235ba72c4c18f/navigation-ui-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/9df97cdcd2bb19fd933235ba72c4c18f/navigation-ui-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/89333baab3abf99902109d0c8d7e2876/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/89333baab3abf99902109d0c8d7e2876/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0e445a0d222e9a8a260d1262703d4eca/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0e445a0d222e9a8a260d1262703d4eca/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a9dc6a8738b4e6bfbbce37f0b28b12d0/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a9dc6a8738b4e6bfbbce37f0b28b12d0/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7f3b0ff676b4e5f9021e3c746ddc2812/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7f3b0ff676b4e5f9021e3c746ddc2812/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/cdb0f6b4e64782c406df03f4ce9eb09a/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/cdb0f6b4e64782c406df03f4ce9eb09a/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/179fd86f1f6c5bc36d8122b4a227c885/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/179fd86f1f6c5bc36d8122b4a227c885/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/6d566a34090e14ff4be9f39280f10bf3/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/6d566a34090e14ff4be9f39280f10bf3/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha01] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/6c0ef3394f347946569378c8993952d0/lifecycle-livedata-ktx-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0-alpha01] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/6c0ef3394f347946569378c8993952d0/lifecycle-livedata-ktx-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/e4bae1f95c5df88b26a184f5885c7437/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/e4bae1f95c5df88b26a184f5885c7437/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0ea803759aaaf2198fd52a7d74ee9d21/navigation-common-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0ea803759aaaf2198fd52a7d74ee9d21/navigation-common-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7f6ce69f0d1edd78924f63e68c2fb84c/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7f6ce69f0d1edd78924f63e68c2fb84c/core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/d96eaa13514be11c8558db57474f6183/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/d96eaa13514be11c8558db57474f6183/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/e08adeba895550a75c6dbc4066cbd61a/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/e08adeba895550a75c6dbc4066cbd61a/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/974708ebdde6016e884b092b20c0bcf5/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/974708ebdde6016e884b092b20c0bcf5/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/70d9b242705aa14ab0e028a5a3b35a66/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/70d9b242705aa14ab0e028a5a3b35a66/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/bc8ba079e0d0196451b54d0fbc3ae20d/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/bc8ba079e0d0196451b54d0fbc3ae20d/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a17bc0e0738b5d1e20081ac3dbb117d6/navigation-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a17bc0e0738b5d1e20081ac3dbb117d6/navigation-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/c3326e5033f96e91dc1d2e1c9bf9ea2c/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/c3326e5033f96e91dc1d2e1c9bf9ea2c/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/03399163d583996d74564df9ab6fb2ee/navigation-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/03399163d583996d74564df9ab6fb2ee/navigation-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/30fa88f19593e51904192001db0cae2b/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/30fa88f19593e51904192001db0cae2b/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a10584b52516f31d191b417c198aa0fe/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a10584b52516f31d191b417c198aa0fe/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/20a04c86cc8c8cdc91ea0393a9ca163f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/20a04c86cc8c8cdc91ea0393a9ca163f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/d64d9f10a48eef0b15f100e5ada22ebe/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/d64d9f10a48eef0b15f100e5ada22ebe/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/fd023815924b5b53aa8e58f87f8bd129/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/fd023815924b5b53aa8e58f87f8bd129/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0d7d383bce2082fad49c3bc4470b87af/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/0d7d383bce2082fad49c3bc4470b87af/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/4c6c11ebbe6c643d3f1d207433caa2ab/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/4c6c11ebbe6c643d3f1d207433caa2ab/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/57fdd6d2309062ca95362e37bd698c3d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/57fdd6d2309062ca95362e37bd698c3d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/31319fa41795a61741648289035cf55e/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/31319fa41795a61741648289035cf55e/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/c301401c464653b79ae5a62128829bf1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/c301401c464653b79ae5a62128829bf1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/aed055fc30ad656e3e2947a79d977181/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/aed055fc30ad656e3e2947a79d977181/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/c62e2f3230a50081759fa709f1bfbfbb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/c62e2f3230a50081759fa709f1bfbfbb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/856bb0f2bcb052b781603c9a8e140731/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/856bb0f2bcb052b781603c9a8e140731/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ae613bc46ae5964ba5477bc00e6d2198/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ae613bc46ae5964ba5477bc00e6d2198/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/06e643c4644ef0f826c9013b6230d39f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/06e643c4644ef0f826c9013b6230d39f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a11f221277d3ba7ee76a0b03438ebe0e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a11f221277d3ba7ee76a0b03438ebe0e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/acc0d43eae693f4c78e9795eaef0eda9/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/acc0d43eae693f4c78e9795eaef0eda9/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/416b1a130b05c06a86c9143ba47c8a91/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/416b1a130b05c06a86c9143ba47c8a91/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/f35fa7c2ec3d2031a14d8560d00c276e/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/f35fa7c2ec3d2031a14d8560d00c276e/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/67f9fc63db934bd4aea6fe4160bfd703/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/67f9fc63db934bd4aea6fe4160bfd703/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/5341388c3406d19b09d8c797e40c1259/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/5341388c3406d19b09d8c797e40c1259/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/51c4a052f1af7144609f48e2f059fada/navigation-common-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/51c4a052f1af7144609f48e2f059fada/navigation-common-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ee7669a4a6eb8aa78558232a6b90114a/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ee7669a4a6eb8aa78558232a6b90114a/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/5d8e2e52f207938cc340c0004df1b169/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/5d8e2e52f207938cc340c0004df1b169/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a458f5e8fed79a9bfdf5ece23e654ace/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/a458f5e8fed79a9bfdf5ece23e654ace/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7c8f205d209e29acf0a4015c4979a57a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/7c8f205d209e29acf0a4015c4979a57a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/19003e80ba054f31d64f665fc8bfb26e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/19003e80ba054f31d64f665fc8bfb26e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/70bf3ab3691b2853ffe0b649bfb10ecd/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/70bf3ab3691b2853ffe0b649bfb10ecd/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/707ea73754ee2579608ddf9a52f0b9c7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/707ea73754ee2579608ddf9a52f0b9c7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/9efd6de74c39c5c30865886a1c141d58/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/9efd6de74c39c5c30865886a1c141d58/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/acccf9ed405817912ae51947b6ec9c27/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/acccf9ed405817912ae51947b6ec9c27/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ac51969b8213e6a96eb7e84da8c8b2a2/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/ac51969b8213e6a96eb7e84da8c8b2a2/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/536f502d21d9d1d1f25ddf8d992fddc5/lifecycle-livedata-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-alpha01] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/536f502d21d9d1d1f25ddf8d992fddc5/lifecycle-livedata-2.2.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/50a88728a2dec1e257993e2dfe193d35/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/50a88728a2dec1e257993e2dfe193d35/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/f505567e017a2002523d69c7e20fb1fd/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/f505567e017a2002523d69c7e20fb1fd/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/dd16d4b0b45f91c987534b28b2ef15fb/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/hardik.trivedi/.gradle/caches/transforms-2/files-2.1/dd16d4b0b45f91c987534b28b2ef15fb/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+		INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+		ADDED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
+		INJECTED from /Users/hardik.trivedi/AndroidStudioProjects/KMMJobFinder/androidJobFinder/src/main/AndroidManifest.xml
