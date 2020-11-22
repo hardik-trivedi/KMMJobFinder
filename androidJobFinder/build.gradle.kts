@@ -37,6 +37,15 @@ dependencies {
 
     val liveDataKtx = "2.2.0-alpha01"
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:$liveDataKtx")
+
+    val androidxCoreTesting = "2.1.0"
+    testImplementation("androidx.arch.core:core-testing:$androidxCoreTesting")
+
+    val coroutineVersion = "1.3.9-native-mt"
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutineVersion")
+
+    val mockkVersion = "1.10.0"
+    testImplementation("io.mockk:mockk:$mockkVersion")
 }
 android {
     compileSdkVersion(29)

@@ -1,8 +1,0 @@
-com/hardiktrivedi/kmmjobfinder/androidJobFinder/databinding/JobInfoListItemBinding.java
- com.hardiktrivedi.kmmjobfinder.androidJobFinder.databinding.JobInfoListItemBinding
-com/hardiktrivedi/kmmjobfinder/androidJobFinder/BuildConfig.java
- com.hardiktrivedi.kmmjobfinder.androidJobFinder.BuildConfig
-com/hardiktrivedi/kmmjobfinder/androidJobFinder/databinding/FragmentJobListBinding.java
- com.hardiktrivedi.kmmjobfinder.androidJobFinder.databinding.FragmentJobListBinding
-com/hardiktrivedi/kmmjobfinder/androidJobFinder/databinding/ActivityMainBinding.java
- com.hardiktrivedi.kmmjobfinder.androidJobFinder.databinding.ActivityMainBinding

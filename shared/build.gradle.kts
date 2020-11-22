@@ -27,6 +27,8 @@ kotlin {
 
     val ktorVersion = "1.4.0"
     val serializationVersion = "1.0.0-RC"
+    val mockitoInlineVersion = "3.6.0"
+    val nhaarmanVersion = "2.2.0"
 
     sourceSets {
         val commonMain by getting {
@@ -52,6 +54,8 @@ kotlin {
             dependencies {
                 implementation(kotlin("test-junit"))
                 implementation("junit:junit:4.12")
+                implementation("org.mockito:mockito-inline:$mockitoInlineVersion")
+                implementation("com.nhaarman.mockitokotlin2:mockito-kotlin:$nhaarmanVersion")
             }
         }
         val iosMain by getting {
@@ -90,3 +94,6 @@ val packForXcode by tasks.creating(Sync::class) {
     into(targetDir)
 }
 tasks.getByName("build").dependsOn(packForXcode)
+dependencies {
+    implementation("junit:junit:4.12")
+}
