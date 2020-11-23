@@ -6,9 +6,10 @@ import io.ktor.client.features.json.*
 import io.ktor.client.features.json.serializer.*
 import io.ktor.client.request.*
 
-class SharedApiClient{
+class SharedApiClient {
     companion object {
-        private const val URL = "https://jobs.github.com/positions.json?description=android&full_time=true&location=uk"
+        private const val URL =
+            "https://jobs.github.com/positions"
     }
 
     private val httpApiClient: HttpClient = HttpClient {
@@ -19,6 +20,10 @@ class SharedApiClient{
     }
 
     suspend fun getJobInfo(): List<JobInfo> {
-        return httpApiClient.get(URL)
+        return httpApiClient.get("$URL.json?full_time=true&location=uk")
+    }
+
+    suspend fun getJobDetail(jobId: String): JobInfo {
+        return httpApiClient.get("$URL/$jobId.json")
     }
 }

@@ -39,5 +39,5 @@ data class JobInfo(
     val howToApply: String,
 
     @SerialName("company_logo")
-    val companyLogo: String
+    val companyLogo: String? = null
 ) : Parcelable

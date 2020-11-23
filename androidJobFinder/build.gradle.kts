@@ -3,6 +3,7 @@ plugins {
     kotlin("android")
     id("kotlin-android-extensions")
     id("kotlin-android")
+    id("androidx.navigation.safeargs.kotlin")
 }
 group = "com.hardiktrivedi.kmmjobfinder"
 version = "1.0-SNAPSHOT"

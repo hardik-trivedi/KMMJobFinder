@@ -5,6 +5,7 @@ import android.view.View
 import android.widget.LinearLayout
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.hardiktrivedi.kmmjobfinder.androidJobFinder.R
@@ -37,7 +38,9 @@ class JobListFragment : Fragment(R.layout.fragment_job_list) {
                 layoutManager = LinearLayoutManager(activity)
                 addItemDecoration(DividerItemDecoration(activity, LinearLayout.VERTICAL))
                 adapter = JobListAdapter(it) {
-
+                    findNavController().navigate(
+                        JobListFragmentDirections.actionJobListFragmentToJobDetailFragment(it.id)
+                    )
                 }
             }
         })

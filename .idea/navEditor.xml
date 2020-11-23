@@ -8,13 +8,25 @@
             <LayoutPositions>
               <option name="myPositions">
                 <map>
+                  <entry key="jobDetailFragment">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="-581" />
+                            <option name="y" value="-471" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
                   <entry key="jobListFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-349" />
-                            <option name="y" value="-355" />
+                            <option name="x" value="-1061" />
+                            <option name="y" value="-494" />
                           </Point>
                         </option>
                       </LayoutPositions>

@@ -9,5 +9,17 @@
         android:id="@+id/jobListFragment"
         android:name="com.hardiktrivedi.kmmjobfinder.androidJobFinder.joblist.JobListFragment"
         android:label="fragment_job_list"
-        tools:layout="@layout/fragment_job_list" />
+        tools:layout="@layout/fragment_job_list" >
+        <action
+            android:id="@+id/action_jobListFragment_to_jobDetailFragment"
+            app:destination="@id/jobDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/jobDetailFragment"
+        android:name="com.hardiktrivedi.kmmjobfinder.androidJobFinder.jobdetails.JobDetailFragment"
+        android:label="JobDetailFragment" >
+        <argument
+            android:name="JOB_ID"
+            app:argType="string" />
+    </fragment>
 </navigation>

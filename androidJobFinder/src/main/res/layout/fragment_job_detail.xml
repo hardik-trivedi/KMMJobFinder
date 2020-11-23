@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".joblist.JobListFragment">
+
+    <ImageView
+        android:id="@+id/companyLogoImageView"
+        android:layout_width="0dp"
+        android:layout_height="200dp"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+    <TextView
+        android:id="@+id/jobTitleTextView"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/companyLogoImageView"
+        tools:text="Tech Lead" />
+
+    <TextView
+        android:id="@+id/companyNameTextView"
+        style="@style/TextAppearance.AppCompat.Body1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/jobTitleTextView"
+        app:layout_constraintStart_toStartOf="@+id/jobTitleTextView"
+        app:layout_constraintTop_toBottomOf="@+id/jobTitleTextView"
+        tools:text="Globant ltd." />
+
+    <TextView
+        android:id="@+id/jobTypeTextView"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintEnd_toStartOf="@+id/locationTextView"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_chainStyle="spread_inside"
+        app:layout_constraintStart_toStartOf="@+id/jobTitleTextView"
+        app:layout_constraintTop_toBottomOf="@+id/companyNameTextView"
+        tools:text="Full time" />
+
+    <TextView
+        android:id="@+id/locationTextView"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/jobTypeTextView"
+        app:layout_constraintEnd_toEndOf="@+id/jobTitleTextView"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/jobTypeTextView"
+        app:layout_constraintTop_toTopOf="@+id/jobTypeTextView"
+        tools:text="United Kingdom" />
+
+    <TextView
+        android:id="@+id/jobDescriptionLabelTextView"
+        style="@style/TextAppearance.AppCompat.Body2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:scrollbars="vertical"
+        app:layout_constraintEnd_toEndOf="@+id/jobTitleTextView"
+        app:layout_constraintStart_toStartOf="@+id/jobTitleTextView"
+        app:layout_constraintTop_toBottomOf="@+id/locationTextView"
+        tools:text="Job description" />
+
+    <TextView
+        android:id="@+id/jobDescriptionValueTextView"
+        style="@style/TextAppearance.AppCompat.Body1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/moreInfoButton"
+        app:layout_constraintEnd_toEndOf="@+id/jobDescriptionLabelTextView"
+        app:layout_constraintStart_toStartOf="@+id/jobDescriptionLabelTextView"
+        app:layout_constraintTop_toBottomOf="@+id/jobDescriptionLabelTextView"
+        tools:text="Job description" />
+
+    <Button
+        android:id="@+id/moreInfoButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:text="@string/more_information"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/howToApplyButton"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/howToApplyButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/how_to_apply"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/moreInfoButton" />
+</androidx.constraintlayout.widget.ConstraintLayout>
