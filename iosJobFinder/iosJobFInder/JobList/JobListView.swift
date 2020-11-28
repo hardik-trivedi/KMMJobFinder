@@ -25,7 +25,9 @@ struct JobListView: View {
                 return AnyView(Text("Loading...").multilineTextAlignment(.center))
             case .result(let jobs):
                 return AnyView(List(jobs){job in
-                    //listView().navigationBarTitle(Text(job.title), displayMode: .inline) 
+                    NavigationLink(destination: JobDetailView(jobListViewModel: job)) {
+                        JobListItemView(jobListViewModel: job)
+                    }
                 })
             case .error(let description):
                 return AnyView(Text(description).multilineTextAlignment(.center))

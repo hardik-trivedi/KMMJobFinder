@@ -15,6 +15,7 @@
 		6F1C9835256C511300C127C5 /* LazyImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F1C9834256C511300C127C5 /* LazyImageView.swift */; };
 		6F1C9839256C516B00C127C5 /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F1C9838256C516B00C127C5 /* ActivityIndicator.swift */; };
 		6F1C983D256C530200C127C5 /* NetworkResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F1C983C256C530200C127C5 /* NetworkResult.swift */; };
+		6F4D3518257262F100E931C3 /* JobDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F4D3517257262F100E931C3 /* JobDetailView.swift */; };
 		7555FF7F242A565900829871 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555FF7E242A565900829871 /* AppDelegate.swift */; };
 		7555FF81242A565900829871 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555FF80242A565900829871 /* SceneDelegate.swift */; };
 		7555FF83242A565900829871 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555FF82242A565900829871 /* ContentView.swift */; };
@@ -67,6 +68,7 @@
 		6F1C9834256C511300C127C5 /* LazyImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LazyImageView.swift; path = iosJobFInder/Utils/LazyImageView.swift; sourceTree = SOURCE_ROOT; };
 		6F1C9838256C516B00C127C5 /* ActivityIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ActivityIndicator.swift; path = iosJobFInder/Utils/ActivityIndicator.swift; sourceTree = SOURCE_ROOT; };
 		6F1C983C256C530200C127C5 /* NetworkResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NetworkResult.swift; path = iosJobFInder/Network/NetworkResult.swift; sourceTree = SOURCE_ROOT; };
+		6F4D3517257262F100E931C3 /* JobDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = JobDetailView.swift; path = iosJobFInder/JobDetail/JobDetailView.swift; sourceTree = SOURCE_ROOT; };
 		7555FF7B242A565900829871 /* iosJobFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosJobFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7555FF7E242A565900829871 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7555FF80242A565900829871 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -139,6 +141,14 @@
 			path = Network;
 			sourceTree = "<group>";
 		};
+		6F4D3516257262C700E931C3 /* JobDetail */ = {
+			isa = PBXGroup;
+			children = (
+				6F4D3517257262F100E931C3 /* JobDetailView.swift */,
+			);
+			path = JobDetail;
+			sourceTree = "<group>";
+		};
 		7555FF72242A565900829871 = {
 			isa = PBXGroup;
 			children = (
@@ -163,6 +173,7 @@
 		7555FF7D242A565900829871 /* iosJobFinder */ = {
 			isa = PBXGroup;
 			children = (
+				6F4D3516257262C700E931C3 /* JobDetail */,
 				6F1C982D256C4D6500C127C5 /* Network */,
 				6F1C9826256C4BD200C127C5 /* Utils */,
 				6F1C980D256C3E3400C127C5 /* JobList */,
@@ -367,6 +378,7 @@
 				6F1C9828256C4BE900C127C5 /* ImageLoader.swift in Sources */,
 				6F1C981D256C420200C127C5 /* JobListViewModel.swift in Sources */,
 				6F1C983D256C530200C127C5 /* NetworkResult.swift in Sources */,
+				6F4D3518257262F100E931C3 /* JobDetailView.swift in Sources */,
 				7555FF7F242A565900829871 /* AppDelegate.swift in Sources */,
 				6F1C9813256C3F0800C127C5 /* JobListItemView.swift in Sources */,
 				7555FF81242A565900829871 /* SceneDelegate.swift in Sources */,
