@@ -9,6 +9,7 @@ import androidx.navigation.fragment.navArgs
 import com.bumptech.glide.Glide
 import com.hardiktrivedi.kmmjobfinder.androidJobFinder.R
 import com.hardiktrivedi.kmmjobfinder.androidJobFinder.databinding.FragmentJobDetailBinding
+import com.hardiktrivedi.kmmjobfinder.androidJobFinder.utils.openInBrowser
 import com.hardiktrivedi.kmmjobfinder.shared.models.JobInfo
 import com.hardiktrivedi.kmmjobfinder.shared.network.SharedApiClient
 
@@ -51,6 +52,13 @@ class JobDetailFragment : Fragment(R.layout.fragment_job_detail) {
         binding.locationTextView.text = jobInfo.location
         binding.jobDescriptionValueTextView.text = jobInfo.description
         binding.jobDescriptionValueTextView.movementMethod = ScrollingMovementMethod()
+
+        binding.moreInfoButton.setOnClickListener {
+            context?.openInBrowser(jobInfo.companyUrl)
+        }
+        binding.howToApplyButton.setOnClickListener {
+            context?.openInBrowser(jobInfo.howToApply)
+        }
     }
 
     companion object {

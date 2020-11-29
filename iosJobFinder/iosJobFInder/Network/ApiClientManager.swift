@@ -21,9 +21,9 @@ struct ApiClientManager: ApiClientManaging {
     }
     
     func fetchJobList(completion: @escaping (NetworkData<[JobListViewModel]>) -> ()) {
-        
+    
         completion(.success([]))
-        
+    
         // This will call API
         try? sharedApiClient.getJobInfo{ (jobInfoViewModel, error) in
             
@@ -49,6 +49,10 @@ extension JobListViewModel {
         company = model.company
         location = model.location
         companyLogo = model.companyLogo
+        description = model.description()
+        createdAt = model.createdAt
+        howToApply = model.howToApply
+        companyUrl = model.companyUrl
     }
 }
 

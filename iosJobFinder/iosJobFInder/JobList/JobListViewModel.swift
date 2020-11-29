@@ -14,5 +14,9 @@ struct JobListViewModel: Identifiable {
         let title: String
         let company: String
         let location: String
+        let description: String
+        let howToApply: String
+        let createdAt: String
+        let companyUrl: String
         let companyLogo: String?
 }
