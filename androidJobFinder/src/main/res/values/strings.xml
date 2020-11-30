@@ -3,4 +3,5 @@
     <string name="appName">Job Finder</string>
     <string name="more_information">More information</string>
     <string name="how_to_apply">How to apply</string>
+    <string name="android">Android : %1$s</string>
 </resources>

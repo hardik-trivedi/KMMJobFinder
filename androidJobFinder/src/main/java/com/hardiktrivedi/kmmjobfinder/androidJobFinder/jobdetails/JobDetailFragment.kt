@@ -12,6 +12,7 @@ import com.hardiktrivedi.kmmjobfinder.androidJobFinder.databinding.FragmentJobDe
 import com.hardiktrivedi.kmmjobfinder.androidJobFinder.utils.openInBrowser
 import com.hardiktrivedi.kmmjobfinder.shared.models.JobInfo
 import com.hardiktrivedi.kmmjobfinder.shared.network.SharedApiClient
+import com.hardiktrivedi.kmmjobfinder.shared.utils.getOSInformation
 
 
 /**
@@ -59,6 +60,7 @@ class JobDetailFragment : Fragment(R.layout.fragment_job_detail) {
         binding.howToApplyButton.setOnClickListener {
             context?.openInBrowser(jobInfo.howToApply)
         }
+        binding.osInfoTextView.text = getString(R.string.android, getOSInformation())
     }
 
     companion object {

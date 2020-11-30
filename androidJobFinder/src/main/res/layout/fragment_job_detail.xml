@@ -97,7 +97,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:text="@string/more_information"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/osInfoTextView"
         app:layout_constraintEnd_toStartOf="@+id/howToApplyButton"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent" />
@@ -108,8 +108,22 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:text="@string/how_to_apply"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/osInfoTextView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/moreInfoButton" />
+
+    <TextView
+        android:id="@+id/osInfoTextView"
+        style="@style/TextAppearance.AppCompat.Body1"
+        android:layout_width="0dp"
+        android:gravity="end"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/jobDescriptionLabelTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Running on" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

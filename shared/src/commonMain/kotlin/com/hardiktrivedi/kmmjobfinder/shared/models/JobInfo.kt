@@ -1,11 +1,8 @@
 package com.hardiktrivedi.kmmjobfinder.shared.models
 
-import com.hardiktrivedi.kmmjobfinder.shared.Parcelable
-import com.hardiktrivedi.kmmjobfinder.shared.Parcelize
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 
-@Parcelize
 @Serializable
 data class JobInfo(
     @SerialName("id")
@@ -40,4 +37,4 @@ data class JobInfo(
 
     @SerialName("company_logo")
     val companyLogo: String? = null
-) : Parcelable
+)
