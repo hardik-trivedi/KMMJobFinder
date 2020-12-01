@@ -7,7 +7,7 @@ between Android and iOS.
 
 | Android        | iOS           |
 | ------------- |:-------------:|
-| KMMAndroidJobFinder.gif | KMMiOSJobFinder.gif |
+| <img src="https://github.com/hardik-trivedi/KMMJobFinder/blob/master/KMMAndroidJobFinder.gif" alt="" width="200" height="400" /> | <img src="https://github.com/hardik-trivedi/KMMJobFinder/blob/master/KMMiOSJobFinder.gif" alt="" width="200" height="400" /> |
 
 Following are the highlights
 
