@@ -14,3 +14,6 @@ Following are the highlights
 * Uses Ktor for Network call
 * Uses Mockk and Mockito for testing to mock the dependency at various layer
 * Explain how shared module can be used in conjuction to Android and iOS ViewModels
+
+# License
+Read more abut license [here](LICENSE)
